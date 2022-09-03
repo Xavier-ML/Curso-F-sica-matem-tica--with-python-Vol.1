@@ -22,5 +22,7 @@ correo laboral:
 
 javierquispet@upeu.edu.pe
 
-{twitter}
+twitter:
+
+https://twitter.com/javierRenne
 
