@@ -5,6 +5,7 @@ Una visión de las matemáticas del mundo físico, abordando la solución analí
  
  . Calculo avanzado
  
- . Física 
+ . Física avanzada o física general
  
- . 
+# Físico trabajando para la mejoria de la enseñanza
+las ecuaciones son palabras de dios en la tierra.
