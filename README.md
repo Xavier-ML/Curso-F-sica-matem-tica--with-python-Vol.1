@@ -22,5 +22,5 @@ correo laboral:
 
 javierquispet@upeu.edu.pe
 
-
+{twitter}
 
