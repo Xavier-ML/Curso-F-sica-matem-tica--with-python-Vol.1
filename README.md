@@ -9,3 +9,14 @@ Una visión de las matemáticas del mundo físico, abordando la solución analí
  
 # Físico trabajando para la mejoria de la enseñanza
 las ecuaciones son palabras de dios en la tierra.
+
+* Curso en proceso de desarrollo(cambiante en el tiempo).
+* se agregaran otros trabajos externos con sus link y adjuntando el autor.
+
+## contacto y redes sociales
+correo personal:
+javiemre@gmail.com
+correo laboral:
+javierquispet@upeu.edu.pe
+
+
