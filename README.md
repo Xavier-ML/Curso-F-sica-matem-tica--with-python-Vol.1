@@ -15,8 +15,12 @@ las ecuaciones son palabras de dios en la tierra.
 
 ## contacto y redes sociales
 correo personal:
+
 javiemre@gmail.com
+
 correo laboral:
+
 javierquispet@upeu.edu.pe
+
 
 
